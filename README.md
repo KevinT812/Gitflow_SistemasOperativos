@@ -3,10 +3,10 @@
 
 # PRÁCTICA 2: Verificación Empírica de QuickSort y Hashing Simple
 
-**Curso:** Análisis de Algoritmos.  
+**Curso:** Administración de Sistemas Operativos y DEVOPS.  
 **Estudiante:**  Kevin Alberto Tinay Pérez.  
 **Carné:**  202304533.   
-**Fecha de Entrega:** 23/10/2025 
+**Fecha de Entrega:** 04/02/2026
 
 ## 2. Objetivos
 
